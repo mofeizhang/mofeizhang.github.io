@@ -1,8 +1,7 @@
+# Hello, I'm Mofei
 
-                   # Hello, I'm Mofei
-
-             ## I'm a Math graduate student, runner, beginner of ballet & French
-              ## currently living in Dallas
+## I'm a Math graduate student, runner, beginner of ballet & French
+## currently living in Dallas
 
 
 ## I will use this site to record my progress in learning programming and machine learning. 
